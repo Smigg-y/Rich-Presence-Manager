@@ -1,6 +1,6 @@
-# Rich-Presence-Manager
+# Rich Presence Manager
 
-Neat little program that allows you to easily manage your rich presence on Discord.
+A neat little program that allows you to easily manage your rich presence on Discord.
 
 <p align="center">
   <img src="https://i.imgur.com/TsuHEav.png" title="Empty Home Page">
